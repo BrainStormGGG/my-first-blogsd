@@ -25,7 +25,7 @@ SECRET_KEY = 'mbz_6^42bg^7ybj@cw*bkf@pj_#1$r9(5gtd)%dj%6y1$=xnc2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'brainstormggg.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'BrainStormGG.pythonanywhere.com']
 
 
 # Application definition
